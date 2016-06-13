@@ -18,6 +18,12 @@ AgeraBus.repository().addUpdatable(this);
 AgeraBus.repository().removeUpdatable(this);
 ```
 
+###### post an event
+
+```java
+AgeraBus.repository().accept(new YourEvent());
+```
+
 ###### on evnet received
 
 ```java
