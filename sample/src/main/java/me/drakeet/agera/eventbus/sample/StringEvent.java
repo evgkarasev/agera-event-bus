@@ -10,8 +10,7 @@ import com.google.android.agera.Supplier;
 
 public class StringEvent implements Supplier<String> {
 
-    @NonNull
-    public final String value;
+    @NonNull public final String value;
 
 
     public StringEvent(@NonNull String value) {

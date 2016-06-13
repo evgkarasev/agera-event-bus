@@ -16,8 +16,7 @@ public class AgeraBus {
     }
 
 
-    @NonNull
-    public static ExternalEventRepository repository() {
+    @NonNull public static ExternalEventRepository repository() {
         return LazyLoad.bus;
     }
 }
