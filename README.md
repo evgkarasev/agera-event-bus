@@ -1,4 +1,4 @@
-# agera event bus
+# Agera Event Bus
 
 #### Sample
 `Broastcast` -> `BroadcastReceiver`(static) -> `IntentService`(Inhibitor)   
