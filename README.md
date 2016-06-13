@@ -14,7 +14,6 @@ To add a dependency using Gradle:
 ```groovy
 compile 'me.drakeet.agera:bus:1.0.0'
 
-compile 'com.squareup.retrofit2:retrofit:2.0.2'
 compile 'com.google.android.agera:agera:1.1.0-beta2'
 ```
 
