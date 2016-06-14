@@ -35,7 +35,7 @@ AgeraBus.repository().removeUpdatable(this);
 AgeraBus.repository().accept(new YourEvent());
 ```
 
-###### on evnet received
+###### on event received
 
 ```java
 @Override public void update() {
