@@ -51,3 +51,6 @@ AgeraBus.repository().accept(new YourEvent());
 AgeraBus.repository().hasObservers()
 ```
 
+##### Addition
+
+- Retrofit Agera Call Adapter: https://github.com/drakeet/retrofit-agera-call-adapter
